@@ -513,6 +513,7 @@ footer{
     max-width: 200px;
     
 }
+
 .leader input{
     padding: 18px;
     background: #F0F3FA;
@@ -724,5 +725,10 @@ footer{
     gap: 10px;
 }
 
+a{
+    padding-bottom: 12px;
+    color: #4E6269;
+    max-width: 200px;
+}
 
 }
