@@ -687,4 +687,28 @@ footer img[src*='telegram']{
 .section-c{
    display: none;}
 
+   .section-d {
+     width: 27rem;
+    
+}
+
+.section-E{
+
+    width: 26rem;
+}
+
+.testimonials{
+    display: none;
+}
+
+.left-right{
+    display: none;
+}
+
+
+.section-F{
+width: 27rem;
+}
+
+
 }
