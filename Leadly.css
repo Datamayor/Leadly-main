@@ -708,6 +708,20 @@ footer img[src*='telegram']{
 
 .section-F{
 width: 27rem;
+height: 432px;
+}
+.leadco{
+
+    display: none ;
+}
+
+footer{
+    width: 27rem;
+    margin: 4rem auto;
+    display: flex;
+    justify-content: space-between;
+
+    gap: 10px;
 }
 
 
